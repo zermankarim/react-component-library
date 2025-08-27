@@ -2,6 +2,28 @@
 
 A modern, type-safe React component library built with TypeScript, Storybook, and Framer Motion. This library provides three main reusable UI components with smooth animations and comprehensive functionality.
 
+## 📸 Component Showcase
+
+### Input Component
+<img width="280" height="333" alt="image" src="https://github.com/user-attachments/assets/19ffac3c-428a-4617-9f69-6393cdace153" />
+
+*Various input states: text, password with visibility toggle, clearable, error state, and different sizes*
+
+### Toast Component  
+<img width="362" height="133" alt="image" src="https://github.com/user-attachments/assets/d9d08b8c-d84f-4095-a467-bf91bad07a24" />
+
+*Toast notifications in different positions with success, error, warning, and info types*
+
+### Sidebar Menu Component
+<img width="746" height="780" alt="image" src="https://github.com/user-attachments/assets/13fa32a9-c1d3-41a1-8625-293dc2c7c747" />
+  
+*Responsive sidebar with nested menu items and smooth sliding animations*
+
+### Storybook Interface
+<img width="1440" height="780" alt="image" src="https://github.com/user-attachments/assets/9a806ae9-7879-4310-a3fb-d81b6e362d48" />
+
+*Interactive component documentation and testing environment*
+
 ## 🚀 Features
 
 - **TypeScript** - Full type safety and excellent developer experience
@@ -156,48 +178,6 @@ const menuItems = [
 />
 ```
 
-## 🎨 Component Screenshots
-
-### Input Component States
-
-#### Text Input with Clear Button
-![Input with clear button - showing a text input field with an X button on the right]
-
-#### Password Input with Visibility Toggle
-![Password input - showing password field with eye icon to toggle visibility]
-
-#### Error State
-![Input error state - showing input with red border and error message below]
-
-#### Different Sizes
-![Input sizes - showing small, medium, and large input variants side by side]
-
-### Toast Component Variations
-
-#### Success Toast
-![Success toast - green toast notification with checkmark icon in bottom right]
-
-#### Error Toast with Progress Bar
-![Error toast - red toast notification with X icon and progress bar at bottom]
-
-#### Multiple Toast Stack
-![Multiple toasts - showing 3 stacked toast notifications of different types]
-
-### Sidebar Menu Component
-
-#### Basic Menu (Closed/Open States)
-![Sidebar closed - main content area with "Open Sidebar" button]
-![Sidebar open - sidebar panel slid in from right with menu items]
-
-#### Nested Menu Items
-![Sidebar with nested items - showing expanded accordion sections with sub-items]
-
-#### Left vs Right Positioning
-![Both sidebars - demonstration of left and right positioned sidebars simultaneously]
-
-### Storybook Interface
-![Storybook UI - showing component library in Storybook with controls panel]
-
 ## 🏗️ Project Structure
 
 ```
@@ -300,7 +280,6 @@ This project is licensed under the MIT License.
 
 - **Storybook Demo**: Run `npm run storybook`
 - **Live Demo**: Run `npm run dev`
-- **GitHub Repository**: [Your Repository URL]
 
 ---
 
